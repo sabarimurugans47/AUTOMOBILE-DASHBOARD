@@ -1,6 +1,4 @@
-That's amazing, Sabari! Congratulations on creating such a detailed and insightful dashboard. Here's a professional and creative README for your GitHub repository and a LinkedIn post draft to showcase your skills and project.
 
-GitHub README
 # 🚗 Automobile (Car) Analysis Dashboard
 
 ## Overview
